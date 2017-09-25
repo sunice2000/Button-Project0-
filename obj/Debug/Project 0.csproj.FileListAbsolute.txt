@@ -1,0 +1,23 @@
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project 0.csprojResolveAssemblyReference.cache
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\MainWindow.g.cs
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\App.g.cs
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project 0_MarkupCompile.cache
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project 0_MarkupCompile.lref
+C:\Users\couga\source\repos\Project 0\Project 0\bin\Debug\Project 0.exe.config
+C:\Users\couga\source\repos\Project 0\Project 0\bin\Debug\Project 0.exe
+C:\Users\couga\source\repos\Project 0\Project 0\bin\Debug\Project 0.pdb
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\MainWindow.baml
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project 0.g.resources
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project_0.Properties.Resources.resources
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project 0.csproj.GenerateResource.Cache
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project 0.csproj.CoreCompileInputs.cache
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project 0.exe
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project 0.pdb
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project 0_Content.g.cs
+C:\Users\couga\source\repos\Project 0\Project 0\bin\Debug\Sounds\OpeningBook.wav
+C:\Users\couga\source\repos\Project 0\Project 0\bin\Debug\Sounds\ClosingBook.wav
+C:\Users\couga\source\repos\Project 0\Project 0\bin\Debug\Sounds\ShakeBook.wav
+C:\Users\couga\source\repos\Project 0\Project 0\bin\Debug\Project 0.exe.manifest
+C:\Users\couga\source\repos\Project 0\Project 0\bin\Debug\Project 0.application
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project 0.exe.manifest
+C:\Users\couga\source\repos\Project 0\Project 0\obj\Debug\Project 0.application
